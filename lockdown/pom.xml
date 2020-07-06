@@ -72,4 +72,17 @@
       </plugins>
     </pluginManagement>
   </build>
+
+  <distributionManagement>
+  <snapshotRepository>
+    <id>hello-snapshot-id</id>
+    <url>http://54.255.207.229:8082/nexus/content/repositories/hello-snapshot-id</url>
+  </snapshotRepository>
+
+  <repository>
+    <id>hello-release-id</id>
+    <url>http://54.255.207.229:8082/nexus/content/repositories/hello-release-id</url>
+  </repository>
+</distributionManagement>
+
 </project>
