@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
 	/* Added as part of MR65478 */
-	int number=150;
+	int number=2020;
         System.out.println( "Hello World!" );
         System.out.println( "Number = " + number );
     }
