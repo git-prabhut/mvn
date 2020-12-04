@@ -10,7 +10,8 @@ public class App
     {
 	/* Added as part of MR65478 */
 	int number=2020;
+	int number2=9090;
         System.out.println( "Hello World!" );
-        System.out.println( "Number = " + number );
+        System.out.println( "Number = " + number + "Number2= " + number2);
     }
 }
