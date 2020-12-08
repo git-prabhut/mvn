@@ -11,7 +11,7 @@ public class App
 	/* Added as part of MR65478 */
 	int number=2020;
 	int number2=9595;
-	int number3=1;
+	int number3=100;
         System.out.println( "Hello World!" );
         System.out.println( "Number = " + number + "Number2= " + number2);
     }
