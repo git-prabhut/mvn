@@ -73,10 +73,11 @@
     </pluginManagement>
   </build>
 
-  <distributionManagement>
+	  <!-- <distributionManagement> -->
 
   <!-- Added user-id and password in jenkins server:/etc/maven/settings.xml -->
   <!-- for hello-snapshot-id and hello-release-id -->
+  <!-- 
   <snapshotRepository>
     <id>hello-snapshot-id</id>
     <url>http://54.255.207.229:8082/nexus/content/repositories/hello-snapshot-id</url>
@@ -86,6 +87,6 @@
     <id>hello-release-id</id>
     <url>http://54.255.207.229:8082/nexus/content/repositories/hello-release-id</url>
   </repository>
-</distributionManagement>
+</distributionManagement> -->
 
 </project>
