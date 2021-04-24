@@ -14,5 +14,7 @@ public class App
 	int number3=10;
         System.out.println( "Hello World!" );
         System.out.println( "Number = " + number + "Number2= " + number2);
+	// Following line added as part of Demo - Prabu T
+	System.out.println("Mepco 24th April Demo");
     }
 }
