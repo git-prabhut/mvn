@@ -14,7 +14,5 @@ public class App
 	int number3=10;
         System.out.println( "Hello World!" );
         System.out.println( "Number = " + number + "Number2= " + number2);
-        System.out.println( "Mepco Demo");
-        System.out.println( "Mepco Demo2");
     }
 }
